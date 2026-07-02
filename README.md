@@ -135,9 +135,8 @@ Conducted a descriptive data analysis ranging from beginner codes to intermediat
 ### Exported the cleaned dataset to tableau public for visualization
 
 ## 📈 Tableau Public Dashboard
-<a href="https://public.tableau.com/app/profile/emmanuel.korankye/viz/GoogleDataAnalyticsCapstoneCyclisticbikeshareanalysis/BikeShareDashboard">
-  <img width="969" height="548" alt="Cyclistic Bike Share Dashboard" src="https://raw.githubusercontent.com/dreamsss126/Bike-Share-Analysis/main/Bike%20Share%20Dashboard%20(1).png" />
-</a>
+![Cyclistic Bike Share Dashboard](https://raw.githubusercontent.com/dreamsss126/Cyclistic-s-Bike-Share-Analysis/main/Bike%20Share%20Dashboard%20-%20Tableau%20public.png)
+
 
 ## 💡 Key Insights & Recommendations
 - Weekend membership campaigns.
